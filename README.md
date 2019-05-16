@@ -76,3 +76,7 @@ import('./dynamic-import');
 ```js
 import('./dynamic-import');
 ```
+
+## Issues of interest
+
+* https://github.com/webpack-contrib/transform-loader/issues/32
